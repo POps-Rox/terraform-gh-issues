@@ -1,3 +1,11 @@
+<!-- BADGES:START -->
+[![CI](https://github.com/POps-Rox/tf-gh-issues/actions/workflows/ci.yml/badge.svg)](https://github.com/POps-Rox/tf-gh-issues/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/POps-Rox/tf-gh-issues/pulls)
+[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/POps-Rox/tf-gh-issues/graphs/commit-activity)
+[![Terraform](https://img.shields.io/badge/Terraform-%3E%3D1.5-623CE4.svg?logo=terraform)](https://www.terraform.io)
+<!-- BADGES:END -->
+
 # Terraform GitHub Issues ![release](https://img.shields.io/github/v/release/azurenoops/terraform-github-issues)![job runs](https://img.shields.io/docker/pulls/azurenoops/terraform-github-issues?label=job%20runs)
 
 ## Usage
