@@ -1,0 +1,21 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tf-gh-issues
+  description: Terraform module for managing GitHub Issues as code
+  annotations:
+    github.com/project-slug: POps-Rox/tf-gh-issues
+    backstage.io/techdocs-ref: dir:.
+  tags:
+    - terraform
+    - github
+    - platform-ops
+  links:
+    - url: https://github.com/POps-Rox/tf-gh-issues
+      title: GitHub Repository
+      icon: github
+spec:
+  type: terraform-module
+  owner: platform-ops-team
+  lifecycle: production
+  system: pops-rox-platform
