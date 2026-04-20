@@ -6,7 +6,7 @@
 [![Terraform](https://img.shields.io/badge/Terraform-%3E%3D1.5-623CE4.svg?logo=terraform)](https://www.terraform.io)
 <!-- BADGES:END -->
 
-# Terraform GitHub Issues ![release](https://img.shields.io/github/v/release/azurenoops/terraform-github-issues)![job runs](https://img.shields.io/docker/pulls/azurenoops/terraform-github-issues?label=job%20runs)
+# Terraform GitHub Issues ![release](https://img.shields.io/github/v/release/POps-Rox/terraform-gh-issues)![job runs](https://img.shields.io/docker/pulls/POps-Rox/terraform-gh-issues?label=job%20runs)
 
 ## Usage
 
@@ -27,7 +27,7 @@ Here's an example workflow that creates a new issue any time you push a commit:
         steps:
         - uses: actions/checkout@v2
         - name: Create issue
-          uses: azurenoops/terraform-github-issues@v1        
+          uses: POps-Rox/terraform-gh-issues@v1        
     ```
 
 ## License
